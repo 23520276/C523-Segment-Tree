@@ -1,1 +1,1 @@
-# C523---Segment-Tree
+# C523-Segment-Tree
